@@ -22,13 +22,7 @@
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
   </p>
 
-## Table of contents
 
-- [Quick start](#quick-start)
-- [Screenshots](#screenshots)
-- [Built With](#built-with)
-- [Creator](#creator)
-- [Thanks](#thanks)
 
 ## Quick start
 
@@ -40,17 +34,6 @@ Try the [Demo](https://114.devstric.com/)
 
 ![114 App in use](https://i.imgur.com/XMPUwA7.gif)
 
-## Built With
 
-* Flutter 1.5.4
-* Dart 2.3.0
 
-## Creator
 
-[**Mohaned Yossry**](https://github.com/Mohanedy98)
-
-## Thanks
-
-Thanks to [semarketir](https://github.com/semarketir/quranjson) for Providing Quran in JSON Format
-
-# -
